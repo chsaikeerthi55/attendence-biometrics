@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "556791826335",
+    "firebase_url": "https://seyon-f0417.firebaseio.com",
+    "project_id": "seyon-f0417",
+    "storage_bucket": "seyon-f0417.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556791826335:android:eeab990df614b2ebfbdfaa",
+        "android_client_info": {
+          "package_name": "com.example.seyon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556791826335-fofnho527587jfjjmhld1cuc9ui61lgj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.seyon",
+            "certificate_hash": "1dd69f603bbef47344e3ce0104b7370eeebc7064"
+          }
+        },
+        {
+          "client_id": "556791826335-414mng1j5r1l9dmgmje2g9e8o40hmiks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSuuG81E3FVtQZGYJmEn9mfv_m6cYp3-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556791826335-414mng1j5r1l9dmgmje2g9e8o40hmiks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
